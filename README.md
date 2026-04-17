@@ -43,13 +43,13 @@ KURO is a modern, minimal note-taking and workspace app inspired by tools like N
 ## 🖥️ Screenshots
 
 ### Landing Page
-![Landing](assets/landing.png)
+![Landing](assets/Landing_page.png)
 
 ### Authentication
-![Login](assets/login.png)
+![Login](assets/Login_page.png)
 
-### Workspace Editor
-![Editor](assets/editor.png)
+### Dashboard
+![Dashboard](assets/Dashboard.png)
 
 ---
 
